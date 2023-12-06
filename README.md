@@ -16,7 +16,7 @@
 
 The challenges vary in difficulty and cover a wide range of algorithms and problem-solving techniques, making it an engaging and educational event for programmers of all skill levels.
 <br/><br/>
-For this year I choose to code in [Python](https://www.python.org/) and you can check my different solutions for each days.
+For this year I choose to code in [Python](https://www.python.org/) and you can check my different solutions for each day.
 
 ## Authors
 
