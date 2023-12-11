@@ -5,7 +5,6 @@
 # Read the input file
 with open("input.txt") as f:
     data = f.read().strip()
-    f.close()
 
 # Split the data to put time and distance in 2 different lists
 data = data.strip().split("\n")

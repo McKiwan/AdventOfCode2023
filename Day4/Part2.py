@@ -5,7 +5,6 @@
 # Read the input file
 with open("input.txt") as f:
     data = f.read().strip()
-    f.close()
 
 # Split the data into a list of lists to end up with a 2D list, one for winning numbers and one for numbers we have
 data = data.split("\n")
